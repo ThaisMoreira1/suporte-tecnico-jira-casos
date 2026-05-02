@@ -25,7 +25,7 @@ O objetivo é demonstrar, de forma prática, como estruturar tickets, priorizar 
 
 ---
 
-## 🔄 Fluxo de atendimento
+## 🔄 Fluxo de atendimento (simulação Jira)
 
 ```mermaid
 graph TD
@@ -35,4 +35,3 @@ C --> D[Atendimento]
 D --> E{Resolvido?}
 E -->|Sim| F[Finalização]
 E -->|Não| G[Escalonamento]
-G --> D
