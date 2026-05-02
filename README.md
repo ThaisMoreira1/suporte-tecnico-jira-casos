@@ -1,4 +1,4 @@
-# 🚀 Sistema de Suporte Técnico com Jira (Simulado)
+# 🚀 Sistema de Suporte Técnico com Jira 
 
 ![status](https://img.shields.io/badge/status-concluído-brightgreen)
 ![foco](https://img.shields.io/badge/foco-Suporte%20Técnico-blue)
